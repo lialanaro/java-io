@@ -1,0 +1,21 @@
+FileOutPutStream
+utilizando FileOutputStream é possivel
+Abrir o arquivo e gravar dados
+Sem necessáriamente sobrescrever o arquivo existente
+
+Nesse exemplo é necessário alem de fechar o com o método .close()
+Também é necessário fechar o arquivo OutputStream
+FileOutPutStream
+utilizando FileOutputStream é possivel
+Abrir o arquivo e gravar dados
+Sem necessáriamente sobrescrever o arquivo existente
+
+Nesse exemplo é necessário alem de fechar o com o método .close()
+Também é necessário fechar o arquivo OutputStream
+FileOutPutStream
+utilizando FileOutputStream é possivel
+Abrir o arquivo e gravar dados
+Sem necessáriamente sobrescrever o arquivo existente
+
+Nesse exemplo é necessário alem de fechar o com o método .close()
+Também é necessário fechar o arquivo OutputStream
